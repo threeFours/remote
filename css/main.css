@@ -1,0 +1,6 @@
+#list-group-scrollable{
+	height:400px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+
