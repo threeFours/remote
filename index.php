@@ -48,6 +48,7 @@
 <button id="bulls" type="button" class="btn btn-lg btn-danger">Bulls</button>
 <button id="bears" type="button" class="btn btn-lg btn-primary">Bears</button>
 <button id="blackhawks" type="button" class="btn btn-lg btn-danger">Blackhawks</button>
+<button id="cubs" type="button" class="btn btn-lg btn-primary">Cubs</button>
 <br /><br />
 <div class="btn-group btn-group-justified">
 <div class="btn-group">
